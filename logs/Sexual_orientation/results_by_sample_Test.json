@@ -1,0 +1,6050 @@
+[
+  {
+    "example_id": 0,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 1,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 2,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 3,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 4,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 5,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 6,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 7,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 8,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 9,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 10,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 11,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 12,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 13,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 14,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 15,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 16,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 17,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 18,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 19,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 20,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 21,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 22,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 23,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 24,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 25,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 26,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 27,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 28,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 29,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 30,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 31,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 32,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 33,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 34,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 35,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 36,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 37,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 38,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 39,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 40,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 41,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 42,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 43,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 44,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 45,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 46,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 47,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 48,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 49,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 50,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 51,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 52,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 53,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 54,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 55,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 56,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 57,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 58,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 59,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 60,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 61,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 62,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 63,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 64,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 65,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 66,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 67,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 68,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 69,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 70,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 71,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 72,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 73,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 74,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 75,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 76,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 77,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 78,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 79,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 80,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 81,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 82,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 83,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 84,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 85,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 86,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 87,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 88,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 89,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 90,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 91,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 92,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 93,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 94,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 95,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 96,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 97,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 98,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 99,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 100,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 101,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 102,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 103,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 104,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 105,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 106,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 107,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 108,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 109,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 110,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 111,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 112,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 113,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 114,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 115,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 116,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 117,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 118,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 119,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 120,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 121,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 122,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 123,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 124,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 125,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 126,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 127,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 128,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 129,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 130,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 131,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 132,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 133,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 134,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 135,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 136,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 137,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 138,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 139,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 140,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 141,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 142,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 143,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 144,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 145,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 146,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 147,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 148,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 149,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 150,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 151,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 152,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 153,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 154,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 155,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 156,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 157,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 158,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 159,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 160,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 161,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 162,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 163,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 164,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 165,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 166,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 167,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 168,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 169,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 170,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 171,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 172,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 173,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 174,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 175,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 176,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 177,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 178,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 179,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 180,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 181,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 182,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 183,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 184,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 185,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 186,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 187,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 188,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 189,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 190,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 191,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 192,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 193,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 194,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 195,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 196,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 197,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 198,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 199,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 200,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 201,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 202,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 203,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 204,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 205,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 206,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 207,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 208,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 209,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 210,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 211,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 212,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 213,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 214,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 215,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 216,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 217,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 218,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 219,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 220,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 221,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 222,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 223,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 224,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 225,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 226,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 227,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 228,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 229,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 230,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 231,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 232,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 233,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 234,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 235,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 236,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 237,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 238,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 239,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 240,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 241,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 242,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 243,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 244,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 245,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 246,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 247,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 248,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 249,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 250,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 251,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 252,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 253,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 254,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 255,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 256,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 257,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 258,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 259,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 260,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 261,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 262,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 263,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 264,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 265,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 266,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 267,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 268,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 269,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 270,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 271,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 272,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 273,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 274,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 275,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 276,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 277,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 278,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 279,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 280,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 281,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 282,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 283,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 284,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 285,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 286,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 287,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 288,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 289,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 290,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 291,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 292,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 293,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 294,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 295,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 296,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 297,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 298,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 299,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 300,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 301,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 302,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 303,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 304,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 305,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 306,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 307,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 308,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 309,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 310,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 311,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 312,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 313,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 314,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 315,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 316,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 317,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 318,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 319,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 320,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 321,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 322,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 323,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 324,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 325,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 326,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 327,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 328,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 329,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 330,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 331,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 332,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 333,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 334,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 335,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 336,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 337,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 338,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 339,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 340,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 341,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 342,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 343,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 344,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 345,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 346,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 347,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 348,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 349,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 350,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 351,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 352,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 353,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 354,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 355,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 356,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 357,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 358,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 359,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 360,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 361,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 362,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 363,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 364,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 365,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 366,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 367,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 368,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 369,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 370,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 371,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 372,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 373,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 374,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 375,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 376,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 377,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 378,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 379,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 380,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 381,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 382,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 383,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 384,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 385,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 386,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 387,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 388,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 389,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 390,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 391,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 392,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 393,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 394,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 395,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 396,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 397,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 398,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 399,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 400,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 401,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 402,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 403,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 404,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 405,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 406,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 407,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 408,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 409,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 410,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 411,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 412,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 413,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 414,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 415,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 416,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 417,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 418,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 419,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 420,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 421,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 422,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 423,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 424,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 425,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 426,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 427,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 428,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 429,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 430,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 431,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 432,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 433,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 434,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 435,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 436,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 437,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 438,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 439,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 440,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 441,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 442,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 443,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 444,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 445,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 446,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 447,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 448,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 449,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 450,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 451,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 452,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 453,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 454,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 455,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 456,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 457,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 458,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 459,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 460,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 461,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 462,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 463,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 464,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 465,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 466,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 467,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 468,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 469,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 470,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 471,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 472,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 473,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 474,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 475,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 476,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 477,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 478,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 479,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 480,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 481,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 482,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 483,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 484,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 485,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 486,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 487,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 488,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 489,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 490,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 491,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 492,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 493,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 494,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 495,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 496,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 497,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 498,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 499,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 500,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 501,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 502,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 503,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 504,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 505,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 506,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 507,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 508,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 509,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 510,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 511,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 512,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 513,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 514,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 515,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 516,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 517,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 518,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 519,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 520,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 521,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 522,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 523,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 524,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 525,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 526,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 527,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 528,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 529,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 530,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 531,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 532,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 533,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 534,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 535,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 536,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 537,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 538,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 539,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 540,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 541,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 542,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 543,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 544,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 545,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 546,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 547,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 548,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 549,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 550,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 551,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 552,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 553,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 554,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 555,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 556,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 557,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 558,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 559,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 560,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 561,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 562,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 563,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 564,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 565,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 566,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 567,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 568,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 569,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 570,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 571,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 572,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 573,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 574,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 575,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 576,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 577,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 578,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 579,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 580,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 581,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 582,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 583,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 584,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 585,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 586,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 587,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 588,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 589,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 590,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 591,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 592,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 593,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 594,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 595,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 596,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 597,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 598,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 599,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 600,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 601,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 602,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 603,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 604,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 605,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 606,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 607,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 608,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 609,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 610,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 611,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 612,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 613,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 614,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 615,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 616,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 617,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 618,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 619,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 620,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 621,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 622,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 623,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 624,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 625,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 626,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 627,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 628,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 629,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 630,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 631,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 632,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 633,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 634,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 635,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 636,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 637,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 638,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 639,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 640,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 641,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 642,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 643,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 644,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 645,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 646,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 647,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 648,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 649,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 650,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 651,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 652,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 653,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 654,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 655,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 656,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 657,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 658,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 659,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 660,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 661,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 662,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 663,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 664,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 665,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 666,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 667,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 668,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 669,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 670,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 671,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 672,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 673,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 674,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 675,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 676,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 677,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 678,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 679,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 680,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 681,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 682,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 683,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 684,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 685,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 686,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 687,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 688,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 689,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 690,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 691,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 692,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 693,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 694,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 695,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 696,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 697,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 698,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 699,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 700,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 701,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 702,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 703,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 704,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 705,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 706,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 707,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 708,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 709,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 710,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 711,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 712,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 713,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 714,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 715,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 716,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 717,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 718,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 719,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 720,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 721,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 722,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 723,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 724,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 725,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 726,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 727,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 728,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 729,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 730,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 731,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 732,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 733,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 734,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 735,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 736,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 737,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 738,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 739,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 740,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 741,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 742,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 743,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 744,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 745,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 746,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 747,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 748,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 749,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 750,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 751,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 752,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 753,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 754,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 755,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 756,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 757,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 758,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 759,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 760,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 761,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 762,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 763,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 764,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 765,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 766,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 767,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 768,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 769,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 770,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 771,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 772,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 773,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 774,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 775,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 776,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 777,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 778,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 779,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 780,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 781,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 782,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 783,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 784,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 785,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 786,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 787,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 788,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 789,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 790,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 791,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 792,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 793,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 794,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 795,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 796,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 797,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 798,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 799,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 800,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 801,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 802,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 803,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 804,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 805,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 806,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 807,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 808,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 809,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 810,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 811,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 812,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 813,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 814,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 815,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 816,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 817,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 818,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 819,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 820,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 821,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 822,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 823,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 824,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 825,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 826,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 827,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": false
+  },
+  {
+    "example_id": 828,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 829,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 830,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 831,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 832,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 833,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 834,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 835,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 836,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 837,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 838,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 839,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 840,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 841,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 842,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 843,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 844,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 845,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 846,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 847,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 848,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 849,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 850,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 851,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 852,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 853,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": false,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 854,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 855,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": false,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 856,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 857,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 858,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 859,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 860,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 861,
+    "label": 0,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 862,
+    "label": 1,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  },
+  {
+    "example_id": 863,
+    "label": 2,
+    "multi_agent_without_think_critic_correct": true,
+    "multi_agent_with_think_critic_correct": true,
+    "single_agent_correct": true
+  }
+]
