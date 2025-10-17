@@ -11,11 +11,4 @@ Team members:
 This project aims to apply a multi-agent system and Anthropic's think tool to mitigate social bias in the response of Large Language Models (LLMs).
 
 
-## Installation
-Make a new venv:
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install camel-ai
-```
 
